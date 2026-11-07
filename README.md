@@ -59,11 +59,6 @@ flutter:
     - assets/images/
 ```
 
----
-
-Vista Previa.
-
-!Captura de pantalla 2025-04-27 a la(s) 11.57.48 a.m..png_11.57.48_a.m..png)
 
 ## 🪜 SECCIÓN 2: Crear el Juego Principal
 
@@ -120,9 +115,6 @@ void main() {
 }
 ```
 
-Vista Previa
-
-!Captura de pantalla 2026-11-02 a la(s) 11.09.51 a.m..png_11.09.51_a.m..png)
 
 ---
 
@@ -154,9 +146,6 @@ Vista Previa
 
 ---
 
-Vista Previa
-
-!Captura de pantalla 2026-11-02 a la(s) 11.10.33 a.m..png_11.10.33_a.m..png)
 
 ## **🛷 SECCIÓN 4: Agregar a Santa**
 
@@ -232,7 +221,6 @@ final double _floatFrequency = 3;
   }
 ```
 
-!Captura de pantalla 2026-11-02 a la(s) 11.32.32 a.m..png_11.32.32_a.m..png)
 
 ## **⌨️ SECCIÓN 5: Movimiento del personaje**
 
@@ -387,7 +375,6 @@ void spawnGift() {
 
 ---
 
-!Captura de pantalla 2026-11-02 a la(s) 11.58.01 a.m..png_11.58.01_a.m..png)
 
 ## **💥 SECCIÓN 7: Colisiones y puntuación**
 
